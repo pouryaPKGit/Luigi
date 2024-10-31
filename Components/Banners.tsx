@@ -5,7 +5,7 @@ import { TypeAnimation } from "react-type-animation";
 const Banners: FC = () => {
   return (
     <>
-      <div className="">
+      <div className="bg-[url('/Images/MainImages/home7-slider7.jpg')] bg-cover bg-center w-[100%] h-[690px] flex items-center sm:justify-start sm:pr-20 justify-center px-10">
         <TypeAnimation
           sequence={[
             "ورود شما را به لوییجی خوش آمد میگم",
